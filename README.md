@@ -5,6 +5,8 @@ You need to create a Book class, which represents a book with a title, author, a
 1. createBookWithTitle(String title, String author) - creates a book with the given title and author, the year of publication will be set to the current year.
 2. createBookWithTitleAndYear(String title, String author, int year) - creates a book with the given title, author, and year of publication.
 
+## Задание
+
 Вам нужно создать класс Book, который представляет собой книгу с названием, автором и годом издания. Для создания экземпляра класса Book вы должны использовать статическую фабрику BookFactory, которая будет иметь следующие методы:
 
 1. createBookWithTitle(String title, String author) - создает книгу с заданным названием и автором, год издания будет установлен на текущий год.
